@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@storybook/addon-coverage": "^0.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "webpack": "^4.46.0"
@@ -20,8 +21,8 @@
     "@storybook/builder-webpack4": "^6.5.13",
     "@storybook/manager-webpack4": "^6.5.13",
     "@storybook/react": "^6.5.13",
-    "@storybook/testing-library": "^0.0.13",
     "@storybook/test-runner": "^0.9.0",
+    "@storybook/testing-library": "^0.0.13",
     "babel-loader": "^8.3.0"
   },
   "scripts": {
