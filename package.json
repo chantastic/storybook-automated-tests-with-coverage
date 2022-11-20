@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@storybook/addon-coverage": "^0.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "webpack": "^4.46.0"
@@ -14,6 +13,7 @@
     "@babel/core": "^7.20.2",
     "@mdx-js/react": "^1.6.22",
     "@storybook/addon-actions": "^6.5.13",
+    "@storybook/addon-coverage": "^0.0.5",
     "@storybook/addon-docs": "^6.5.13",
     "@storybook/addon-essentials": "^6.5.13",
     "@storybook/addon-interactions": "^6.5.13",
